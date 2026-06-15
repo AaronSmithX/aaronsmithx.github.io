@@ -1,0 +1,12 @@
+{
+  "name": "aaronsmithx.github.io",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal website served via GitHub Pages at https://aaronsmith.online",
+  "scripts": {
+    "dev": "live-server --port=3000"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
