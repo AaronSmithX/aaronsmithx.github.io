@@ -4,7 +4,7 @@
   "private": true,
   "description": "Personal website served via GitHub Pages at https://aaronsmith.online",
   "scripts": {
-    "dev": "live-server --port=3000"
+    "dev": "live-server --port=3000 --ignore=.git"
   },
   "devDependencies": {
     "live-server": "^1.2.2"
